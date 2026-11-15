@@ -1,0 +1,6 @@
+{
+  "name": "SOULSPARK",
+  "description": "SOULSPARK — Let Inner Worlds Meet. A calm cosmic social sanctuary for poetry, photography, philosophy, collective creation, and meaningful human connection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
